@@ -25,7 +25,13 @@ The constructed life table for the North East (2015) produces the following key 
 - **Life expectancy at birth**: 78.8 years
 - **Life expectancy at age 65**: 17.8 years
 - **Mortality curve**: shows increasing mortality rates with age, with a steep rise after age 70.
-![Mortality Curve](plots/mortality_curve.png)
+![Mortality Curve](figures/mortality_curve.png)
 - **Survival curve**: shows the decline of a 100,000‑life cohort, remaining stable through mid‑life and falling sharply in older ages.
-
+![Survival Curve](figures/survival_curve.png)
 - **Life expectancy curve**: shows expected remaining years decreasing smoothly with age, consistent with ONS patterns.
+![Life Expectancy Curve](figures/life_expectancy_curve.png)
+
+## Data Source
+Mortality and population data obtained from the ONS NOMIS service:
+https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?opt=3&theme=&subgrp=
+
