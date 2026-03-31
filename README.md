@@ -1,4 +1,4 @@
-# Life Table for the North East (2015)
+# Life Table for the North East of England (2015)
 
 ## Overview
 This project constructs a complete actuarial life table for the North East region of England in 2015 using ONS mortality and population data. It calculates central mortality rates $m_x$, death probabilities $q_x$, and the full set of life table functions, including survival counts, person‑years lived, and remaining life expectancy.
